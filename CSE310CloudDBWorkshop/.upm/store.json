@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "languages": {
+    "python-python3-poetry": {
+      "specfileHash": "bc91b0968b6ea7bdaa095b35f0797d1e",
+      "lockfileHash": "c3da383a8e88c859abea5d713b083cea",
+      "guessedImportsHash": "c4868008611e03ea50bd201513efef94"
+    }
+  }
+}
