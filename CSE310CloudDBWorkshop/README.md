@@ -3,7 +3,7 @@ Basic FireBase Demo, I've created test software that acts as a store inventory. 
 
 I've written this as a basic intro and demonstration of FireBase and it's capabilities.
 
-[Software Demo Video]([http://youtube.link.goes.here](https://www.loom.com/share/192ac7c688c94ac788df8f7e61daafb0))
+[Software Demo Video](http://youtube.link.goes.here](https://www.loom.com/share/192ac7c688c94ac788df8f7e61daafb0)
 
 # Cloud Database
 
